@@ -1,0 +1,114 @@
+  /* .box{
+    background-color:#cccec3;
+    width:100%;
+    height:50px;
+    border-top-left-radius:50% 50%;
+    border-top-right-radius:50% 50%;
+    background: #cccec3;
+    box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.36);
+}*/
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #52725e;   
+     /* font-family: "Fredoka", sans-serif;   */
+    text-align: center;
+}
+h1{
+    color: #cccec3;
+    font-size: 70px;
+}
+h2{
+    color: #cccec3;
+    font-size: 20px;
+}
+img{
+    width: 900px;
+    border-radius: 30px;
+}
+::selection{
+    background-color: #cccec3;
+    color:#52725e
+}
+.br{
+    display: block;
+    content: " ";
+    margin-top: 10px ;
+}
+#header-nav{
+    /* background-color: #f6f6f2; */
+    background-color: #cccec3;
+    height: 150px;
+    width:1920px;
+    padding-right: 100px;
+}
+#header-nav{
+    margin: 10px solid black;
+    padding-left: 10px;
+}
+.logo{
+    padding-left: 45px;
+}
+/* #title_card{
+    padding-left: 10px;
+    padding:13px;
+} */
+.title_card{
+    color:black;
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: .75;
+
+    display: block;
+    margin-bottom: 0.3em;
+}
+.book{
+    padding-left: 69%;
+}
+.menu{
+    padding-left: 0px ;
+}
+#logo{
+    float: left;
+    width: 100px;
+}
+#temp2{
+    float: right;
+    color: rgb(182, 45, 45);
+    padding: 3%;
+
+}
+#middle_text{
+    font-size:25px;
+    padding-top: 55px;
+}
+.navbar-brand h1{
+    color:black;
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: .75;
+    
+}
+a{
+    text-decoration: none;
+        
+}
+#booking_button{
+    width:120px;
+}
+button{
+    border-radius: 25px;
+    padding: 10px;
+    width: 90px;
+    
+}
+.menu{
+    padding-right: 5%;
+}
+
+#nav-list{
+    margin-top: 10px;
+}
+
+  
+  
